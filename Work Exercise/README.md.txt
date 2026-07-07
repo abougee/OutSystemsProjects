@@ -112,7 +112,7 @@ The following roles and their responsibilities are as follows:
 2. Account Managers:
    a. Can view dashboard.
    b. Can view clients, but cannot create or edit them.
-   c. Can view engagements, but cannot create or edit them.
+   c. Can view engagements, but cannot create them. Can only edit their status.
    d. Can view, create and edit engagement teams.
    e. Can view, create and edit consultants.
    f. Can view, create and edit billing milestones.
