@@ -60,6 +60,9 @@ where you can commence selected bill payment and filter by name search, biller c
    b. Contains donut chart for all transactions by category.
    c. List of all transactions where you can filter by name search or by date.
 
+7. Payment Form for card details entry and account info. entry (phone number).
+Note: Payment form supports entered partial amount available only for partial payment billers.
+
 The following roles and their responsibilities are as follows:
 
 1. Administrators:
