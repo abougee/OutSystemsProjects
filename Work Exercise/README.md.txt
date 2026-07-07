@@ -20,13 +20,16 @@ This portal application supports the following pages with the following features
    j. Clients list containing the top 5 clients by contract value.
 
 
-2. Clients List where you can filter by Region, industry and client activity status.
-3. Engagements List where you can filter by Client name, engagement type, engagement status and utilized currency.
+2. Clients List where you can filter by name search, Region, industry and client activity status.
+3. Engagements List where you can filter by name search, Client name, engagement type, engagement status and utilized currency.
 4. Engagement details within Engagement list item entailing an overview, relevant Engagement teams, relevant billing milestones and 
 relevant revenue recognitions.
-5. Consultants List where you can filter by Seniority Level. 
-6. Billing Milestones where you can filter by Engagement title and Billing milestone status.
-7. Revenue Recognitions where you can filter by Engagement title.
+5. Consultants List where you can filter by name search and Seniority Level. 
+6. Billing Milestones where you can filter by name search, Engagement title and Billing milestone status.
+7. Revenue Recognitions where you can filter by Engagement name search and Engagement title.
+8. Import and export page (underneath user profile logo) 
+for Clients, Engagements, Engagement Teams, Consultants, Billing milestones andd revenue recognitions.
+
 
 The following roles and their responsibilities are as follows:
 
@@ -38,6 +41,7 @@ The following roles and their responsibilities are as follows:
    e. Can view, create and edit consultants.
    f. Can view, create and edit billing milestones.
    g. Can view, create and edit revenue recognitions.
+   h. Can view import and export sheet page to download and upload excel sheets.
 
 2. Account Managers:
    a. Can view dashboard.
@@ -47,7 +51,6 @@ The following roles and their responsibilities are as follows:
    e. Can view, create and edit consultants.
    f. Can view, create and edit billing milestones.
    g. Can view, create and edit revenue recognitions.
-
 
 3. Consultants:
    a. Can view dashboard.
